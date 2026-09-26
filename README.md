@@ -3,7 +3,7 @@
 [![Roboflow Universe](https://img.shields.io/badge/Roboflow-road--damage--vn-purple?logo=roboflow)](https://universe.roboflow.com/kiet-7wdju/road-damage-vn-e1n2w)
 [![Framework](https://img.shields.io/badge/Framework-Ultralytics%20YOLO-blue)](https://github.com/ultralytics/ultralytics)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch)](https://pytorch.org/)
-[![Model Size](https://img.shields.io/badge/Model%20Size-19.4%20MB-success)]()
+[![Model Size](https://img.shields.io/badge/Model%20Size-19.4%20MB-success)](https://github.com/kiet7732/YOLO26s_rdd_vn/tree/main/weights)
 
 A lightweight, high-performance object detection model fine-tuned for **automated road damage inspection under Vietnamese traffic and pavement conditions**, developed as part of the Road Damage GIS capstone project.
 
