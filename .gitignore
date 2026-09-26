@@ -1,0 +1,7 @@
+﻿# Exclude heavy intermediate checkpoint files
+weights/epoch*.pt
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
